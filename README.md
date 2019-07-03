@@ -1,2 +1,2 @@
 # PlantModeOn
-Landing page example
+Landing page example.
